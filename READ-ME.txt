@@ -1,0 +1,9 @@
+  =>  Nome do Template     : EPBJC - Template 
+
+  =>  Referencia Original    : https://epbjc.pt/porto/
+
+  =>  Autores do Template   : Feito por Bruno Santos, Gonçalo Teixeira, Diogo Martins
+
+  =>  Author Website   : file:///Z:/pap-main/index.html
+
+  =>  Sobre o HTML  : Site feito para mostrar uma pagina sobre a Escola, para conhecer e sentir interesse em se inscrever, Desde Calendarização até as informações mais detalhadas com emails informativos(NEWSLETTER).
